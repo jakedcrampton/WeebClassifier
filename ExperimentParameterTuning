@@ -1,0 +1,144 @@
+depth: 2
+quantile set: [0.5]
+Accuracy: 0.7704955891182855
+Most Important Column: Shoujo
+
+
+depth: 2
+quantile set: [0.25, 0.5, 0.75]
+Accuracy: 0.8566809847120226
+Most Important Column: Shoujo
+
+
+depth: 2
+quantile set: [0.17, 0.33, 0.5, 0.67, 0.83]
+Accuracy: 0.8615306452357859
+Most Important Column: Shoujo
+
+
+depth: 2
+quantile set: [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+Accuracy: 0.8660108078148815
+Most Important Column: Shoujo
+
+
+depth: 3
+quantile set: [0.5]
+Accuracy: 0.8071682601265531
+Most Important Column: Shoujo
+
+
+depth: 3
+quantile set: [0.25, 0.5, 0.75]
+Accuracy: 0.8566809847120226
+Most Important Column: Shoujo
+
+
+depth: 3
+quantile set: [0.17, 0.33, 0.5, 0.67, 0.83]
+Accuracy: 0.8615306452357859
+Most Important Column: Shoujo
+
+
+depth: 3
+quantile set: [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+Accuracy: 0.8660108078148815
+Most Important Column: Shoujo
+
+
+depth: 5
+quantile set: [0.5]
+Accuracy: 0.8375594660754699
+Most Important Column: Shoujo
+
+
+depth: 5
+quantile set: [0.25, 0.5, 0.75]
+Accuracy: 0.8674426123504688
+Most Important Column: Shoujo
+
+
+depth: 5
+quantile set: [0.17, 0.33, 0.5, 0.67, 0.83]
+Accuracy: 0.8697981617477253
+Most Important Column: Shoujo
+
+
+depth: 5
+quantile set: [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+Accuracy: 0.8664264930026326
+Most Important Column: Shoujo
+
+
+depth: 7
+quantile set: [0.5]
+Accuracy: 0.8519698859175096
+Most Important Column: Shoujo
+
+
+depth: 7
+quantile set: [0.25, 0.5, 0.75]
+Accuracy: 0.8740012008683201
+Most Important Column: Shoujo
+
+
+depth: 7
+quantile set: [0.17, 0.33, 0.5, 0.67, 0.83]
+Accuracy: 0.874185949840654
+Most Important Column: Shoujo
+
+
+depth: 7
+quantile set: [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+Accuracy: 0.8717380259572306
+Most Important Column: Shoujo
+
+
+depth: 10
+quantile set: [0.5]
+Accuracy: 0.8605145258879497
+Most Important Column: Shoujo
+
+
+depth: 10
+quantile set: [0.25, 0.5, 0.75]
+Accuracy: 0.8748787584869059
+Most Important Column: Shoujo
+
+
+depth: 10
+quantile set: [0.17, 0.33, 0.5, 0.67, 0.83]
+Accuracy: 0.8757101288624082
+Most Important Column: Shoujo
+
+
+depth: 10
+quantile set: [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+Accuracy: 0.8758486905916586
+Most Important Column: Shoujo
+
+
+depth: 20
+quantile set: [0.5]
+Accuracy: 0.8526165073206781
+Most Important Column: Shoujo
+
+
+depth: 20
+quantile set: [0.25, 0.5, 0.75]
+Accuracy: 0.8634705094452912
+Most Important Column: Shoujo
+
+
+depth: 20
+quantile set: [0.17, 0.33, 0.5, 0.67, 0.83]
+Accuracy: 0.8599140917278648
+Most Important Column: Shoujo
+
+
+depth: 20
+quantile set: [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+Accuracy: 0.8735393284374856
+Most Important Column: Shoujo
+
+
